@@ -1,0 +1,7 @@
+This app does NOT collect any of the personal data, such as your location/name/address/email and any other personal information.
+
+
+If you provide any feedback through the inside feedback button and if there is any stack exception of the app,
+the application stack exception will be send along with your feedback info.
+
+This is the only information we collect and it is only used to help diagnose the app runtime exception to improve user experience and will be deleted in 24 hours.
