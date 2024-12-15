@@ -1,7 +1,37 @@
-This app does NOT collect any of the personal data, such as your location/name/address/email and any other personal information.
+Privacy Policy
 
+Last updated: [2024-12-15]
 
-If you provide any feedback through the inside feedback button and if there is any stack exception of the app,
-the application stack exception will be send along with your feedback info.
+[Butterfy Network] ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and protect information when you use our app available on Google Play.
 
-This is the only information we collect and it is only used to help diagnose the app runtime exception to improve user experience and will be deleted in 24 hours.
+Information We Collect
+
+Our app does not collect any personal data such as your name, address, or contact information. We only collect non-personal device performance data to improve the app's functionality and user experience.
+
+Types of Data Collected
+
+Device Performance Data: This includes information such as app usage statistics, crash reports, and other diagnostic data.
+
+How We Use Your Information
+
+The data we collect is used solely for the purpose of improving our app's performance and functionality. This helps us identify and fix issues, enhance features, and ensure a better user experience.
+
+Data Retention
+
+We retain the collected device performance data for a period of 30 days. After this period, all data is automatically deleted from our systems.
+
+Data Security
+
+We take reasonable measures to protect the data we collect from unauthorized access, alteration, or destruction. However, please be aware that no method of transmission over the internet or method of electronic storage is 100% secure.
+
+Third-Party Services
+
+Our app does not share your data with third-party services, except as required by law or to protect our rights.
+
+Changes to This Privacy Policy
+
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. You are advised to review this Privacy Policy periodically for any changes.
+
+Contact Us
+
+If you have any questions or concerns about this Privacy Policy, please contact us at Google Play.
